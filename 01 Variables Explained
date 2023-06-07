@@ -1,0 +1,12 @@
+#Variables explained
+#A variable has a name
+#A variable stores a value or expression
+#Three variables are below
+
+name = "Musa"
+age = 17
+colour = "red"
+
+print(name)
+print(age)
+print(colour)

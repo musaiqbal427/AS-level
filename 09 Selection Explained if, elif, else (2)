@@ -1,0 +1,17 @@
+# Selection or Conditionals
+# Also known as if statements
+# Used when a decison has to be made
+# Only using if 
+
+mark = int(input("enter mark"))
+
+if mark == 10:
+  print("A")
+elif mark == 9:
+  print("B")
+elif mark == 8:
+  print("C")
+elif mark > 10:
+  print("invalid")
+else:
+  print("Fail")

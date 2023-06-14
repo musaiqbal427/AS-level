@@ -1,0 +1,13 @@
+# Variables and constants explained
+# This is an example of a variable
+
+name = "Musa"
+
+# This is an example of a constant
+
+AVOGADRO = 6.02*10**23
+# ** means to the power of
+
+# The data in a variable can change
+# The data in a CONSTANT does not change
+# CONSTANTS are always declared in FULL CAPITALS

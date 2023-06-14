@@ -1,0 +1,9 @@
+# Selection or Conditionals
+# Also known as if statements
+# Used when a decison has to be made
+# Only using if 
+
+age = 100
+
+if age > 18:
+  print("You can vote")

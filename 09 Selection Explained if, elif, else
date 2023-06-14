@@ -1,0 +1,15 @@
+# Selection or Conditionals
+# Also known as if statements
+# Used when a decison has to be made
+# Only using if 
+
+litter = int(input("enter litter size"))
+
+if litter <= 5:
+  print("good size")
+elif litter == 6:
+  print("just right")
+elif litter == 7:
+  print("large litter")
+else:
+  print("huge litter")
